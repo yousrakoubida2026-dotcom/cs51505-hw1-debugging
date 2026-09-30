@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Debug Guessing Game",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/number_game.py",
+            "console": "integratedTerminal",
+            "stopOnEntry": false
+        }
+    ]
+}
